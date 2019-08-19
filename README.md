@@ -40,7 +40,7 @@ As we may notice from the diagram above, the demand exposed by the recipient is 
 All that means that the backpressure control is not that fair in WebFlux as we expect.
 
 
-
+------------------------
 - https://stackoverflow.com/questions/52244808/backpressure-mechanism-in-spring-web-flux\
 - https://stackoverflow.com/questions/47240836/reason-for-using-reactive-programming-in-simple-cases
 - https://stackoverflow.com/questions/55773465/how-to-implement-back-pressure-for-a-reactive-network-library
@@ -49,10 +49,25 @@ All that means that the backpressure control is not that fair in WebFlux as we e
 - https://softwareengineering.stackexchange.com/questions/352873/what-are-reactive-streams-and-whats-so-special-in-them
 
 ------------------------
-
-
 - https://dzone.com/articles/reactive-programming-with-spring-webflux
 - https://dzone.com/articles/spring-reactive-programming-in-java
+------------------------
+
+- https://github.com/vaquarkhan/spring-reactive-webflux
+- https://github.com/vaquarkhan/webflux-mongodb-poc
+- https://github.com/vaquarkhan/reactive-spring-reactive-microservices
+- https://github.com/vaquarkhan/spring-boot-webflux-jjwt
+- https://github.com/vaquarkhan/reactive-springbootWebFlux
+- https://github.com/vaquarkhan/webflux-streaming-showcase
+- https://github.com/vaquarkhan/spring-webflux-security-jwt
+- https://github.com/vaquarkhan/spring-webflux-oauth
+- https://github.com/vaquarkhan/webflux-stream-demo
+- https://github.com/vaquarkhan/Webflux-Streaming-Service
+- https://github.com/vaquarkhan/webflux-workshop
+- https://github.com/vaquarkhan/webflux-streaming-demo
+- https://github.com/vaquarkhan/webflux-demo-201803
+- https://github.com/vaquarkhan/reactive-spring-webflux-reactive-rest-api-demo
+- https://github.com/vaquarkhan/sample-webflux-annot-cassandra
 
 
 ## Run it with...
