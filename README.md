@@ -45,7 +45,8 @@ All that means that the backpressure control is not that fair in WebFlux as we e
 - https://stackoverflow.com/questions/47240836/reason-for-using-reactive-programming-in-simple-cases
 - https://stackoverflow.com/questions/55773465/how-to-implement-back-pressure-for-a-reactive-network-library
 - https://stackoverflow.com/questions/46787315/reactive-pull-based-backpressure-using-reactive-streams
-
+- https://stackoverflow.com/questions/1216380/what-is-a-stream
+- https://softwareengineering.stackexchange.com/questions/352873/what-are-reactive-streams-and-whats-so-special-in-them
 
 ------------------------
 
@@ -57,17 +58,3 @@ All that means that the backpressure control is not that fair in WebFlux as we e
 ## Run it with...
 ```
 mvn test
-
-********************************************************************************
-     __  ___       __                           _____
-    / / / (_)___ _/ /_ _      ______ ___  __   / ___/___  ______   _____  _____
-   / /_/ / / __ `/ __ \ | /| / / __ `/ / / /   \__ \/ _ \/ ___/ | / / _ \/ ___/
-  / __  / / /_/ / / / / |/ |/ / /_/ / /_/ /   ___/ /  __/ /   | |/ /  __/ /
- /_/ /_/_/\__, /_/ /_/|__/|__/\__,_/\__, /   /____/\___/_/    |___/\___/_/
-         /____/                    /____/
-
-********************************************************************************
-
-```
-
-https://ualterazambuja.com/2018/04/22/reactive-programming-with-spring-webflux/
