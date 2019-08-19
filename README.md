@@ -51,6 +51,8 @@ All that means that the backpressure control is not that fair in WebFlux as we e
 ------------------------
 - https://dzone.com/articles/reactive-programming-with-spring-webflux
 - https://dzone.com/articles/spring-reactive-programming-in-java
+- https://dzone.com/articles/understanding-spring-reactiveintroducing-spring-we
+- https://dzone.com/articles/reactive-spring-5-and-application-design-impact
 ------------------------
 
 - https://github.com/vaquarkhan/spring-reactive-webflux
@@ -69,6 +71,11 @@ All that means that the backpressure control is not that fair in WebFlux as we e
 - https://github.com/vaquarkhan/reactive-spring-webflux-reactive-rest-api-demo
 - https://github.com/vaquarkhan/sample-webflux-annot-cassandra
 
+----
+### Antipattern
+
+- https://www.infoq.com/articles/reactive-programming-anti-patterns/
+- https://www.reactivesystems.eu/2017/01/31/things-i-wish-i-knew-when-i-started-building-reactive-systems.html
 
 ## Run it with...
 ```
