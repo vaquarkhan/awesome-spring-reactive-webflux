@@ -41,10 +41,10 @@ All that means that the backpressure control is not that fair in WebFlux as we e
 
 
 
----------------------------------------
-
-
-https://stackoverflow.com/questions/52244808/backpressure-mechanism-in-spring-web-flux
+- https://stackoverflow.com/questions/52244808/backpressure-mechanism-in-spring-web-flux\
+- https://stackoverflow.com/questions/47240836/reason-for-using-reactive-programming-in-simple-cases
+- https://stackoverflow.com/questions/55773465/how-to-implement-back-pressure-for-a-reactive-network-library
+- https://stackoverflow.com/questions/46787315/reactive-pull-based-backpressure-using-reactive-streams
 
 
 ------------------------
