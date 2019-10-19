@@ -71,6 +71,30 @@ All that means that the backpressure control is not that fair in WebFlux as we e
 - https://github.com/vaquarkhan/reactive-spring-webflux-reactive-rest-api-demo
 - https://github.com/vaquarkhan/sample-webflux-annot-cassandra
 
+--------------------
+
+
+
+- https://github.com/vaquarkhan/spring5-reactive-webflux
+- https://github.com/vaquarkhan/webflux-mongodb-poc
+- https://github.com/vaquarkhan/reactive-spring-reactive-microservices
+- https://github.com/vaquarkhan/spring-boot-webflux-jjwt
+- https://github.com/vaquarkhan/reactive-springbootWebFlux
+- https://github.com/vaquarkhan/webflux-streaming-showcase
+- https://github.com/vaquarkhan/spring-webflux-security-jwt
+- https://github.com/vaquarkhan/spring-webflux-oauth
+- https://github.com/vaquarkhan/webflux-stream-demo
+- https://github.com/vaquarkhan/spring-webflux-cassandra-poc
+- https://github.com/vaquarkhan/Webflux-Streaming-Service
+- https://github.com/vaquarkhan/webflux-workshop
+- https://github.com/vaquarkhan/sample-spring-cloud-webflux
+- https://github.com/vaquarkhan/webflux-streaming-demo
+- https://github.com/vaquarkhan/webflux-demo-201803
+- https://github.com/vaquarkhan/reactive-spring-webflux-reactive-rest-api-demo
+- https://github.com/vaquarkhan/sample-webflux-annot-cassandra
+
+
+
 ----
 ### Antipattern
 
